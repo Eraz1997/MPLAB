@@ -16,6 +16,8 @@
 
   * Download [XC8 Compiler](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers)
 
+  * Download [USBTinyISP drivers](https://learn.adafruit.com/usbtinyisp/drivers)
+
   * Download [WinAVR](https://sourceforge.net/projects/winavr/)
 
 ## Simulating
