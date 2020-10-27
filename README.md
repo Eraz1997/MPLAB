@@ -39,3 +39,7 @@
 avrdude -c usbtiny -p m328p -P \\.\COMX -Uflash:w:FILE.hex
 ```
 Replace *COMX* with the right COM port and *FILE* with the right filename
+
+* [Here](http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega48A-PA-88A-PA-168A-PA-328-P-DS-DS40002061A.pdf) you can find the *ATmega328P* datasheet
+
+* And [here](https://content.arduino.cc/assets/UNO-TH_Rev3e_sch.pd) there's *Arduino UNO* schematics
