@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>ArduinoTest</name>
+            <name>ArduinoFirstAssignment</name>
             <creation-uuid>a41fcd5b-588f-4280-8e8b-06c752af10d6</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>

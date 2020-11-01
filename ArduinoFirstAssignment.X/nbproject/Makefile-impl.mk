@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=ArduinoTest.X
+PROJECTNAME=ArduinoFirstAssignment.X
 
 # Active Configuration
 DEFAULTCONF=default
