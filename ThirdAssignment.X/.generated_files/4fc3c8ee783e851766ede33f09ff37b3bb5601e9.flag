@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -g -D__DEBUG -D__MPLAB_DEBUGGER_SIMULATOR=1    -omf=elf -DXPRJ_default=$(CND_CONF)  -legacy-libc  $(COMPARISON_BUILD)  -I"../../../../../Program Files/Microchip/xc16/v1.60/support/dsPIC30F/h" -O0 -msmart-io=1 -Wall -msfr-warn=off   C:\Users\gianl\Desktop\Ing.INF\Embedded Systems\MPLAB\ThirdAssignment.X\main.c
